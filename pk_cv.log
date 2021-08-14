@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.12.25)  26 JAN 2021 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.5.13)  14 AUG 2021 18:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -148,22 +148,27 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 20--20
 [] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (1.00441pt too wide) in paragraph at lines 114--116
+Overfull \hbox (1.00441pt too wide) in paragraph at lines 117--119
 []\OT1/cmr/m/n/10.95 ``Estimation and in-fer-ence for high di-men-sional, doubl
 y-structured re-gres-sion mod-els'', Fred Hutchin-
  []
 
 [2] [3] (./pk_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 1697 strings out of 482854
- 24681 string characters out of 5956880
- 272270 words of memory out of 5000000
- 17070 multiletter control sequences out of 15000+600000
+ 1697 strings out of 482778
+ 24681 string characters out of 5955219
+ 272519 words of memory out of 5000000
+ 17079 multiletter control sequences out of 15000+600000
  539428 words of font info for 43 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
+ 59 hyphenation exceptions out of 8191
  44i,9n,37p,871b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/parker/.texlive2020/texmf-var/fonts/pk/ljfour/jk
 nappen/ec/tcrm1095.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
@@ -171,7 +176,7 @@ onts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on pk_cv.pdf (3 pages, 84880 bytes).
+Output written on pk_cv.pdf (3 pages, 84751 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
